@@ -1,0 +1,10 @@
+C:\Users\Администратор\source\repos\Trasher\Trasher\bin\Debug\Trasher.exe.config
+C:\Users\Администратор\source\repos\Trasher\Trasher\bin\Debug\Trasher.exe
+C:\Users\Администратор\source\repos\Trasher\Trasher\bin\Debug\Trasher.pdb
+C:\Users\Администратор\source\repos\Trasher\Trasher\obj\Debug\Trasher.csprojAssemblyReference.cache
+C:\Users\Администратор\source\repos\Trasher\Trasher\obj\Debug\Trasher.Form1.resources
+C:\Users\Администратор\source\repos\Trasher\Trasher\obj\Debug\Trasher.Properties.Resources.resources
+C:\Users\Администратор\source\repos\Trasher\Trasher\obj\Debug\Trasher.csproj.GenerateResource.cache
+C:\Users\Администратор\source\repos\Trasher\Trasher\obj\Debug\Trasher.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\Trasher\Trasher\obj\Debug\Trasher.exe
+C:\Users\Администратор\source\repos\Trasher\Trasher\obj\Debug\Trasher.pdb
